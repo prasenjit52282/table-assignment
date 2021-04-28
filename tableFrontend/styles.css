@@ -1,0 +1,49 @@
+input[type=checkbox]{
+    width: 17px;
+    height:17px;
+}
+
+
+.container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    width:70%;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.omit{
+    font-size:0;
+    margin-right: 2px;
+}
+
+.male{
+    color:#A4C0EC;
+    font-size: 1.5rem;
+}
+
+.female{
+    color:#B1ECA4;
+    font-size: 1.5rem;
+}
+
+.not-found{
+    color:#ECA4A4;
+    font-size: 1rem;
+}
+
+
+table.dataTable tbody tr.selected {
+    background-color: #e9e8e8;
+}
+
+
+#mytable_length{
+    padding-top:4px;
+}
+
+#mytable_info{
+    padding: 0;
+    margin-bottom: 8px;
+}

@@ -1,0 +1,6 @@
+On top of the table - Show the total number of records fetched:
+1) Design table with dynamic columns name and data coming from the backend
+2) Implement column sorting
+3) Implement pagination to shift to other pages
+4) Implement Rows per page to display
+5) Select Delete Row usecase (Select a row and perform delete)
